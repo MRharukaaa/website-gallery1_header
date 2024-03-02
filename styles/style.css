@@ -1,0 +1,17 @@
+/* ヘッダー */
+.p-header {
+    height: 50px;
+    background-color: black;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1.5rem 0;
+    position: relative;
+    z-index: 1;
+}
+
+/* 全体に適応させるcss */
+body {
+    background-color: rgb(236, 236, 236);
+}
+
